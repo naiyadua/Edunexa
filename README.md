@@ -1,6 +1,6 @@
-# 🎓 Edunexa - College Management System
+# 🎓 Edunexa - Educational Institution Management System
 
-Edunexa is a web-based College Management System developed using **Python**, **Flask**, **HTML**, **CSS**, and **SQLite**. It provides an easy way to manage student records through a user-friendly interface.
+Edunexa is a web-based Educational Institution Management System developed using **Python**, **Flask**, **HTML**, **CSS**, and **SQLite**. It provides an easy way to manage student records through a user-friendly interface.
 
 ## Live Demo
 https://edunexa-rr6m.onrender.com
