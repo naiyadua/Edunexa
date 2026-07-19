@@ -23,7 +23,8 @@ Edunexa is a web-based College Management System developed using **Python**, **F
 - HTML5
 - CSS3
 - SQLite
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
@@ -96,8 +97,7 @@ Add screenshots of:
 ## 🌟 Future Improvements
 
 - Role-based Authentication
-- Search & Filter Students<img width="1905" height="937" alt="Edunexa 1" src="https://github.com/user-attachments/assets/99f1619c-b4cb-4494-86f8-d9433bfbfe48" />
-
+- Search & Filter Students
 - Export Data to Excel/PDF
 - Email Notifications
 
