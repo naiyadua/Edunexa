@@ -80,11 +80,6 @@ python app.py
 
 ```
 http://127.0.0.1:5000
-```<img width="1905" height="937" alt="Edunexa 1" src="https://github.com/user-attachments/assets/7265acb6-0789-4553-ad48-58ec48d81502" />
-<img width="1905" height="937" alt="Edunexa 1" src="https://github.com/user-attachments/assets/56efeff3-ab65-4249-94f2-360b89f5a73a" />
-<img width="1905" height="937" alt="Edunexa 1" src="https://github.com/user-attachments/assets/514a8d79-7092-4bf0-844f-ba64a8076539" />
-<img width="1750" height="796" alt="Edunexa 2" src="https://github.com/user-attachments/assets/fe93c759-bd84-4b23-bd74-b5c8037e6350" />
-
 
 ---
 
@@ -110,10 +105,6 @@ Add screenshots of:
 
 ## 👩‍💻 Author
 
-**Naiya Dua**<img width="1851" height="912" alt="Edunexa 4" src="https://github.com/user-attachments/assets/c7fa5cfc-2761-4c8f-8444-79574ec426b3" />
-<img width="1810" height="762" alt="Edunexa 3" src="https://github.com/user-attachments/assets/f6b4457b-1f21-4cc5-ac55-fe0d53935ae5" />
-<img width="1750" height="796" alt="Edunexa 2" src="https://github.com/user-attachments/assets/930aa4e6-ff27-4bdc-9607-f43709d94341" />
-<img width="1905" height="937" alt="Edunexa 1" src="https://github.com/user-attachments/assets/51124d93-6e8a-4ac7-8158-7db1c9213ae3" />
 
 
 - GitHub: https://github.com/naiyadua
